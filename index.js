@@ -30,4 +30,4 @@ var funkyFunction = function() {
 
 theOuter = funkyFunction();
 theFunk = theOuter();
-theFunk = "FUNKY!"
+theFunk = 'FUNKY!'
